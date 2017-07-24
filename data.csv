@@ -13,5 +13,4 @@ Duplication,Name,Suit,Action 1,Special,Discard,Version,Pool
 ,,,,,,,
 2,Bungle,Special,Attack +1 or Block +1,When you pick this card you may place it on top of your opponent's deck.,M,0.4,yes
 2,Malicious Glare,Special,Attack +3 or Block +3,When you pick this card you may swap a card in your opponent's discard with a card remaining in the experience row.,MM,0.4,yes
-2,Improve,Special,"Attack +2
-If you play this card as a block, swap it with another card in the trade row and use that card's block value instead.",When you pick this card you may scrap up to two cards in your discard.  One of the scrapped cards must be a special card.,MMM,0.4,yes
+2,Improve,Special,"Attack +2 If you play this card as a block, swap it with another card in the trade row and use that card's block value instead.",When you pick this card you may scrap up to two cards in your discard.  One of the scrapped cards must be a special card.,MMM,0.4,yes
